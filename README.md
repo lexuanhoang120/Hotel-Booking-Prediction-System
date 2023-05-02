@@ -9,3 +9,6 @@
 - Create model to predict hotel booking
 - Using Flask to desgin basic UI
 - Deploy on Heroku.
+
+### Demonstration:
+
